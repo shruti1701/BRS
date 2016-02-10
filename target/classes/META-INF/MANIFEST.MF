@@ -1,9 +1,0 @@
-Manifest-Version: 1.0
-Implementation-Vendor: Pivotal Software, Inc.
-Implementation-Title: BRS
-Implementation-Version: 0.0.1-SNAPSHOT
-Implementation-Vendor-Id: BRS
-Build-Jdk: 1.7.0_40
-Built-By: Shruti.c
-Created-By: Maven Integration for Eclipse
-
