@@ -1,12 +1,16 @@
-package com.brs;
+package brs.config;
 
+/**
+ * Hello world!
+ *
+ */
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
 
 @SpringBootApplication
-public class BrsApplication {
+public class AppConfig {
 
 	public static void main(String[] args) {
-		SpringApplication.run(BrsApplication.class, args);
+		SpringApplication.run(AppConfig.class, args);
 	}
 }
